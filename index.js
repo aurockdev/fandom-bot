@@ -35,5 +35,4 @@ for (const file of commandFiles) {
 	}
 }
 
-console.log(client)
 client.login(token);
